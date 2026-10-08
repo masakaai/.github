@@ -12,6 +12,7 @@
   <a href="https://masaka-ai.vercel.app/">官方网站</a> ·
   <a href="https://masaka-ai.vercel.app/dashboard.html">控制台</a> ·
   <a href="https://github.com/masakaai/jet-browser">Jet Browser</a> ·
+  <a href="https://github.com/masakaai/jet-browser/discussions">GitHub 社区</a> ·
   <a href="https://discord.gg/8Ybc32NcMt">Discord 社区</a> ·
   <a href="mailto:masaka-ai-sup@outlook.com">客户支持</a>
 </p>
@@ -33,11 +34,10 @@ MASAKA 为智能体提供可观察、可接管、可验证的浏览器运行环�
 - [阅读技术报告](https://masaka-ai.vercel.app/jet-browser/tech-report/)
 - [查看源代码与一键安装方式](https://github.com/masakaai/jet-browser)
 
-## 加入社区
+## 社区与反馈
 
-MASAKA 的 Discord 社区面向浏览器智能体与网页自动化开发者，可用于交流接入方案、浏览器接管流程、可靠性实践和产品反馈。
-
-**长期有效邀请：** https://discord.gg/8Ybc32NcMt
+- [Jet Browser 开源讨论](https://github.com/masakaai/jet-browser/discussions)：交流源码接入、基准复现、集成方案和社区示例。
+- [Discord 社区](https://discord.gg/8Ybc32NcMt)：交流 MASAKA 托管浏览器、人工接管流程和产品反馈。
 
 ## 安全与支持
 
